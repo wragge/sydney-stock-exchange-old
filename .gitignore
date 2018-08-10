@@ -1,0 +1,4 @@
+*.pyc
+credentials.py
+.DS_Store
+notebooks/images
