@@ -2,3 +2,4 @@
 credentials.py
 .DS_Store
 notebooks/images
+notebooks/.ipynb_checkpoints
